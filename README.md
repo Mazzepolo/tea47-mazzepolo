@@ -1,1 +1,1 @@
-# Some web3 shell
+# Some blockchain shell
